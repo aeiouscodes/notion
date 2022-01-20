@@ -1,3 +1,7 @@
+<html> 
+<head>
+    <title>Greeting Message</title> 
+    <style>
 #lbl {
     font-family: monospace;
     font-size: xx-large;
